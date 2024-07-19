@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\assets\\script\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\zombiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|d:\\workspace_(d)\\unity3d\\game\\shootingzombie\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|d:\\workspace_(d)\\unity3d\\game\\shootingzombie\\assets\\script\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\assets\\script\\rotategun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotategun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\assets\\script\\movetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movetoplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\assets\\script\\spawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F53086-3A65-2A7D-20B2-9C6330DAA6AE}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawnenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameController.cs",
+              "ToolTip": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\GameController.cs",
+              "RelativeToolTip": "Assets\\Script\\GameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:08:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZombieController.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\ZombieController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ZombieController.cs",
+              "ToolTip": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\ZombieController.cs",
+              "RelativeToolTip": "Assets\\Script\\ZombieController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:28:11.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:15:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnEnemy.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\SpawnEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpawnEnemy.cs",
+              "ToolTip": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\SpawnEnemy.cs",
+              "RelativeToolTip": "Assets\\Script\\SpawnEnemy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:08:33.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveToPlayer.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\MoveToPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoveToPlayer.cs",
+              "ToolTip": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\MoveToPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\MoveToPlayer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:21:47.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotateGun.cs",
+              "DocumentMoniker": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\RotateGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RotateGun.cs",
+              "ToolTip": "D:\\Workspace_(D)\\Unity3D\\Game\\ShootingZombie\\Assets\\Script\\RotateGun.cs",
+              "RelativeToolTip": "Assets\\Script\\RotateGun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:45:53.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
